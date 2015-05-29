@@ -94,7 +94,7 @@ public class NaiveFilteredLearner {
 		}
 	}
 
-	public static void main (String[] args) {
+	public static void mainFoo (String[] args) {
 
 		NaiveFilteredLearner learner;
 		//System.out.println("Usage: java MyLearner <fileData> <fileModel>");
